@@ -1,0 +1,72 @@
+body{
+    margin: 0%;
+    font-family: 'Montserrat', sans-serif;
+}
+img{
+    height: 100%;
+       width: 100%;
+}
+h1{
+    font-size: 50px;
+    font-weight: 600;
+    color: #575757;
+}
+h3{
+    color: #828282;
+    margin-bottom: 50px;
+}
+.font-Weight{
+    font-weight: 100;
+}
+.benner-h1{
+  
+    color: #fb9349;
+}
+.margin-top{
+    margin-top: 150px;
+    padding-bottom: 150px;
+}
+.dispaly-flax{
+    display: flex;
+}
+.width-left{
+    width: 45%;
+    padding-left: 50px;
+}
+.order-button{
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 50px;
+    padding: 20px 40px;
+    background-image: linear-gradient(orange, #fe4a2f);
+}
+.about_img{
+    width: 70%;
+}
+.About-benner{
+    padding: 50px 50px 0px 100px;
+    margin-top: 100px;
+    background-image: url(image/7.png);
+}
+.text-algin{
+    text-align: center;
+    padding: 0px 350px ;
+}
+.my-recipies{
+    padding: 10px;
+    width: 25%;
+    margin-left: 5%;
+    border-radius: 10px;
+    box-shadow: 7px 10px 40px gray;
+}
+.footer-section{
+    margin-top: 100px;
+    padding: 20px 0px 50px;
+    background: #0b0d17;
+}
+.footer-color{
+    color: #fb934a;
+}
+.footer-color-p{
+    color: #d1d2d3;
+}
